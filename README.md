@@ -1,4 +1,5 @@
 # Funding Invoice Dashboard
+# Funding Dashboard
 
 A comprehensive Python dashboard built with Streamlit and Plotly to visualize and analyze funding invoice data.
 
